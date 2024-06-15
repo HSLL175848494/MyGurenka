@@ -1,0 +1,7 @@
+1.将含有剧本的文件夹Script移动到ScriptPack.exe同级目录下，运行该程序可解包文本
+解包文本和配置将新创建两个文件夹存储    ScriptUnpack文件夹以及ScriptUnpackInI文件夹
+
+2.将含有解包剧本和配置的两个文件夹ScriptUnpack以及ScriptUnpackInI移动到ScriptPack.exe目录下
+之后运行ScriptPack.exe即可将剧本封回Scipt文件夹中的剧本（该操作会覆盖原来的文本，请留有剧本备份）
+
+最后将含有汉化内容的剧本Script文件夹移动到游戏目录下
